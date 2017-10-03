@@ -1,3 +1,3 @@
 # Battleship
 A Battleship program for a Unix OS 
-**Must be compiled with ncurses
+Must be compiled with ncurses
